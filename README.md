@@ -1,5 +1,5 @@
 ## *DEPRECATED*
->  #### *Warning: 'Isilon' has been rebranded as 'PowerScale'.  Hence, This repository is no longer being maintained. For any updates and new features, Please refer  [ansible-powerscale](https://github.com/dell/ansible-powerscale).*
+>  #### *Warning: 'Isilon' has been rebranded as 'PowerScale'.  Hence, this repository is no longer being maintained. For any updates and new features, please refer  [ansible-powerscale](https://github.com/dell/ansible-powerscale).*
 
 # Ansible Modules for Dell EMC Isilon
 The Ansible Modules for Dell EMC Isilon allow Data Center and IT administrators to use RedHat Ansible to automate and orchestrate the configuartion and management of Dell EMC Isilon arrays.
